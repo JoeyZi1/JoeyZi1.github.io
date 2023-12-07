@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate majoring in Computer Science at the [CSE](https://cse.sustech.edu.cn/en/) department, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China.
+I am an undergraduate majoring in Computer Science at the [CSE](https://cse.sustech.edu.cn/en/) department of [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) (SUSTech), Shenzhen, China.
 
-During my senior year, I also had a wonderful time as a research intern supervised by Prof. [Sitao Huang](https://sitaohuang.com/) at [UC， Irvine](https://uci.edu/) [CORSA](https://corsa.eng.uci.edu/) Lab.
+During my senior year, I also had a wonderful time as a research intern supervised by Prof. [Sitao Huang](https://sitaohuang.com/) at [UC, Irvine](https://uci.edu/) [CORSA](https://corsa.eng.uci.edu/) Lab.
 
 My research interests include hardware accelerators, system optimization for high performance algorithms, and high-level synthesis.
 
