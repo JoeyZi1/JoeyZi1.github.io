@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: ''
 date: 2023-11-16
-venue: 'Proceedings of the VLDB Endowment (PVLDB), 17(x), xxx - xxx, 2024. (Ready to be published)'
+venue: 'Proceedings of the VLDB Endowment (PVLDB), 17(x), xxx - xxx, 2024. <strong>(Ready to be published)</strong>'
 paperurl: 
 citation: 'Xiangyu Zhi, Xiao Yan, Bo Tang, <strong>Ziyao Yin</strong>, Y. Zhu, M. Zhou.'
 ---
