@@ -1,5 +1,5 @@
 ---
-title: "HyTrans: AnHBM-based End-to-EndTransformerAcceleratorwithHybrid Dataflow Optimizations"
+title: "HyTrans: AnHBM-based End-to-End Transformer Accelerator with Hybrid Dataflow Optimizations"
 collection: publications
 permalink: 
 excerpt: ''
