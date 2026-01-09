@@ -3,9 +3,9 @@ title: "CoroGraph: Bridging Cache Efficiency and Work Efficiency for Graph Algor
 collection: publications
 permalink: 
 excerpt: ''
-date: 2023-11-16
-venue: 'Proceedings of the VLDB Endowment (PVLDB, CCF-A), 17(4), 891 - 903, 2024.'
-paperurl: 'https://dl.acm.org/doi/abs/10.14778/3636218.3636240'
+date: 2024-11-16
+venue: 'Proceedings of the VLDB Endowment (PVLDB, CCF-A), 17(4), 891 - 903'
+paperurl: "https://dl.acm.org/doi/abs/10.14778/3636218.3636240"
 citation: 'Xiangyu Zhi, Xiao Yan, Bo Tang, Ziyao Yin, Y. Zhu, M. Zhou.'
 ---
 

@@ -3,12 +3,14 @@ title: "HyTrans: An HBM-based End-to-End Transformer Accelerator with Hybrid Dat
 collection: publications
 permalink: 
 excerpt: ''
-date: 2023-11-21
+date: 2024-11-21
 venue: 'The 61th Design Automation Conference (DAC 2024) - Poster invitation received (not presented)'
 paperurl:
 citation: 'Ziyao Yin, Yifan Zhang, Dhananjay Vijayaraghavan, Sitao Huang'
 ---
-![A brief caption](./image1.png)
+<img src="accelerator overview.jpg"
+     alt="accelerator overview"
+     style="display:block; margin:0 auto; width:70%;" />
 
 **Abstract:** As Transformer-based models become larger and more complex, the escalating computational and memory demands pose significant challenges to the design and optimization of Transformer accelerators. Existing accelerators have achieved many performance improvements through methods such as data flow optimization and novel pruning algorithms. However, the lack of comprehensive end-to-end optimization of the entire Transformer model from a hardware architecture perspective greatly limits the performance and hardware resource utilization of previous designs during deployment. The hardware architecture of existing accelerators greatly influences the performance and hardware resource utilization patterns of the accelerator. The existing works mainly adopt two styles of architectures for accelerators -- spatial and temporal architectures. However, neither of these two architectures can maximize hardware performance and both have significant drawbacks when accelerating the entire Transformer model. 
 
