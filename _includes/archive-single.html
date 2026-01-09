@@ -36,7 +36,7 @@
 
     <!-- ziyao: here I use post.citation as author list -->
     {% if post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>{{ post.citation }} <!-- <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a> --></p>
     {% elsif post.citation %}
       <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}

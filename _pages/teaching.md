@@ -10,7 +10,7 @@ author_profile: true
 
 * Spring 2023: Teaching Assistant
   * Southern University of Science and Technology
-  * CS202 Computer Organization
+  * CS202 Computer Architecture
   <!-- * Duties included: Merging pull requests -->
 
 
