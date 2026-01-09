@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ziyao Yin"
   avatar           : "profile.png"
-  bio              : "4th year undergraduate student at Southern University of Science and Technology"
-  location         : "Shenzhen, China"
+  bio              : "MS student @ Georgia Tech ECE"
+  location         : "Atlanta, GA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/ziyao-yin-1a16ab282/"
+  linkedin         : "https://www.linkedin.com/in/ziyao-yin-1a16ab282/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
